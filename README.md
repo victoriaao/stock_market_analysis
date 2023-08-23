@@ -3,6 +3,11 @@
 ## Introduction
 This repository contains a Python script for extracting data from yahoofinance. We will use Python to analyze historical stock price data obtained from Yahoo Finance. The goal is to gain insights into stock price trends, volatility, and potentially identify investment opportunities.
 
+### Tools Used
+Jupyter Notebook Python 3
+Power BI
+VScode
+
 ## Project Overview
 
 - **Import Libraries:** We will start by importing necessary Python libraries such as `pandas`, `numpy`, and `yfinance` to handle data and interact with Yahoo Finance.
