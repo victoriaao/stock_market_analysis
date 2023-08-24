@@ -36,5 +36,3 @@ Stock market analysis of the big tech giants. We connected to the web on Power B
 
 ### Tools Used
 Power BI
-
-## Project Overview
